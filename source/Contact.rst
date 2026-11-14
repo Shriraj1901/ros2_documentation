@@ -43,7 +43,7 @@ You can contact the ROS community in the following ways:
 
 * :ref:`Discourse discussion boards <discussion-boards>`: Share ideas or discuss best practices
 
-* `Zulip chat <https://openrobotics.zulipchat.com/Recent>`_: Chat to other ROS community members, including maintainers, in real time in the ``General`` or ``ROS General`` topics.
+* `Zulip chat <https://openrobotics.zulipchat.com/>`_: Chat to other ROS community members, including maintainers, in real time in the ``General`` or ``ROS General`` topics.
 
 * `Email <mailto:ros@openrobotics.org>`_: Contact us directly if you have a private or sensitive issue
 

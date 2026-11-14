@@ -203,7 +203,7 @@ You can also control your model's joints manually via the panel settings interfa
   :width: 500 px
   :alt: Foxglove's URDF Viewer panel with editable joint positions
 
-Reference the `docs <https://foxglove.dev/docs/visualization/panels/urdf-viewer>`__ for more details.
+Reference the `docs <https://docs.foxglove.dev/docs/visualization/panels/3d>`__ for more details.
 
 Other basic actions
 -------------------
